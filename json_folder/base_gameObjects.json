@@ -1,0 +1,32 @@
+{   
+    "inventories": [
+        {
+            "inventory_factories": {},
+            "inventory_upgrades": [],
+            "inventory_achievements": [],
+            "inventory_items": {}
+        }
+    ],
+    "achievements": [
+        {
+            "name": "New Kid On The Block",
+            "description": "Purchase your first factory"
+        }
+    ],
+
+    "store_factories": {
+        "Wood Factory": {
+            "product": "Wood",
+            "availabilty": "True",
+            "production_rate": 2,
+            "holding": 0,
+            "capacity": 10,
+            "cost": 100
+        }
+    },
+    "stages": [
+        {
+            "welcome": "False"
+        }
+    ]
+}
